@@ -1,0 +1,49 @@
+#home h-pri{
+    font-size: 1.5vmin;
+}
+#home{
+    
+    background-color: rgba(0, 0, 0, 0.778);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    height: 100%;
+    width: 100%;
+    top: 0px;
+    /* left: 0px; */
+    z-index: 1;
+    
+}
+#boxdiv .box{
+    height: 180px;
+    margin-bottom: 125px;
+}
+#boxdiv .box h2{
+    font-size: 3vmin;
+
+}
+#boxdiv .box h3{
+    font-size: 1.5vmin;
+}
+#section1{
+    height: 150vh;
+}
+#bgdiv {
+    margin-bottom:25vh;
+}
+#section{
+    height:10vh;
+}
+#section3 #last{
+    margin-bottom:30px;
+}
+
+#lastsection .last2 a{
+    font-size: 2vmin;
+}
+#lastsection .last2{
+    margin-bottom: 35px;
+}
